@@ -1,0 +1,34 @@
+{
+ "region": "서울 광진구 광장동",
+ "nameEn": "Presbyterian University and Theological Seminary",
+ "added": "2026-11-01T02:27",
+ "rank": 266,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "KONKUK",
+   "campus": "건국대학교 서울캠퍼스",
+   "km": 2.5
+  },
+  {
+   "code": "SEJONG",
+   "campus": "세종대학교",
+   "km": 2.6
+  },
+  {
+   "code": "SEOIL",
+   "campus": "서일대학교",
+   "km": 4.1
+  },
+  {
+   "code": "KNSU",
+   "campus": "한국체육대학교",
+   "km": 4.2
+  },
+  {
+   "code": "HYWU",
+   "campus": "한양여자대학교",
+   "km": 4.9
+  }
+ ]
+}
